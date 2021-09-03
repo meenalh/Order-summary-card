@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Acknowledgments
 
-This is my very first repository as well as challenge.I've tried my best for this challenge and I would love to have you guys support and help.
+This is my very first repository as well as challenge.I've tried my best for this challenge and I would love to have your support and help.
 
