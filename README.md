@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/meenalh/Order-summary-card.git
 - Live Site URL: https://meenalh.github.io/Order-summary-card/
 
 ## Author
