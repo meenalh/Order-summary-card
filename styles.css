@@ -1,0 +1,122 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+    background-image: url("back.png");
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.main{
+    width: 360px;
+    border-radius: 15px 15px 0px 0px;
+    position: relative;
+    top: 80px;
+    
+}
+
+.content{
+    background-color: white;
+    border-radius: 0px 0px 15px 15px;
+    margin: auto ;
+    position: relative;
+    top: 50px;
+    width: 360px;
+    height: 400px;
+    box-shadow: 0px 15px 18px hsl(240, 80%, 90%);
+    
+
+}
+h3{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 25px;
+    padding: 35px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+
+    .you{
+        font-family: 'Red Hat Display', sans-serif;  
+        
+        padding: 0px 30px; 
+        
+    }
+    p{
+        font-family: 'Red Hat Display', sans-serif;
+        color: hsl(224, 23%, 55%);
+        display: inline-block;
+        font-size: 14px;
+    }
+    h5{
+        font-family: 'Red Hat Display', sans-serif;
+        margin: 0px;
+        position: relative;
+        
+       
+    }
+    ul{
+        list-style: none;
+        display: inline-block;
+        margin: 0px;
+        padding-left: 0px;
+        position: relative;
+        bottom:30px;
+        right:20px;
+    }
+    svg{
+        position: relative;
+        right: 30px;
+        margin:20px 0px ;
+    }
+    a{
+        font-family: 'Red Hat Display', sans-serif;
+        position: relative;
+        bottom: 40px;
+        left: 20px;
+        font-size:14px;
+    }
+    .button{
+        border: none;
+        color: white;
+        text-align: center;
+        background-color: hsl(245, 75%, 52%);
+        border-radius: 10px;
+        font-family: 'Red Hat Display', sans-serif;
+        padding: 13px 80px;
+        margin: 25px;
+        box-shadow: 0px 10px 18px hsl(240, 61%, 86%);
+        cursor: pointer;
+        opacity: 1;
+        transition: 0.3s;
+        
+    }
+    .button:hover {opacity: 0.7}
+    .cancel{
+        color: hsl(224, 23%, 55%);
+        cursor: pointer;
+    }
+.sub{
+    background-color:hsl(225, 100%, 98%);
+    border-radius: 10px;
+    margin: 0px auto;
+    height: 85px;
+    width: 284.4px;
+    
+}
+.cost{
+    margin: 0px;
+}
+li{
+    height: 20.8px;
+    
+    
+}
+.plan{
+color: black;
+font-family: 'Red Hat Display', sans-serif;
+size:16px;
+margin: 0px;
+position: relative;
+}
